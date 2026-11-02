@@ -1,0 +1,24 @@
+model:
+  in_features: 6
+  hidden_dim: 32
+  out_features: 1
+  num_hidden_nodes: 4
+
+training:
+  epochs: 100
+  batch_size: 128
+  learning_rate: 0.005
+  weight_decay: 0.0001
+  seed: 42
+
+pruning:
+  prune_every: 10
+  prune_stop_epoch: 70
+  target_prune_fraction: 0.15
+  hutchinson_samples: 5
+
+diagnostics:
+  ood_scale: 2.0
+  noise_std: 0.3
+  power_iter_steps: 15
+  power_iter_tol: 0.0001

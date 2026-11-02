@@ -1,0 +1,10 @@
+swarm:
+  num_agents: 10
+  dim: 5
+  bounds: [-5.12, 5.12]
+  steps: 400
+  w_inertia: 0.7
+  c_pbest: 0.5
+  c_gbest: 1.0
+  learning_rate: 0.02
+  seed: 42
