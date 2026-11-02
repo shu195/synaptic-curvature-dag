@@ -1,6 +1,7 @@
 # Synaptic Curvature DAG (`synaptic-curvature-dag`)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI](https://github.com/shu195/synaptic-curvature-dag/actions/workflows/ci.yml/badge.svg)](https://github.com/shu195/synaptic-curvature-dag/actions/workflows/ci.yml)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 ![DPI: 300](https://img.shields.io/badge/Visuals-300_DPI-brightgreen.svg)
