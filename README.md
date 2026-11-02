@@ -21,6 +21,12 @@ Standard Multi-Layer Perceptrons (MLPs) enforce nearest-neighbor chain topologie
 
 ---
 
+## 300 DPI Diagnostics Dashboard
+
+![Master 300 DPI Neural Diagnostics Dashboard](assets/neural_diagnostics_high_dpi_dashboard.png)
+
+---
+
 ## Mathematical Formulation
 
 ### 1. Multi-Hop Isometric Forward Aggregation
